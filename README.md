@@ -81,8 +81,8 @@ ESLint & Prettier – for code formatting and quality assurance.
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone git@github.com:Yarik2019/Psychologists.Services.git
-cd Psychologists.Services
+git clone git@github.com:Yarik2019/VocabBuilder.git
+cd VocabBuilde
 ```
 
 ### 2️⃣ Install Dependencies and Run
