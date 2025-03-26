@@ -8,51 +8,51 @@ VocabBuilder is a web application designed to help users expand their vocabulary
 
 ### 🏠 Home Page
 
-A welcoming interface displaying the company's slogan.
+A welcoming interface introducing the app’s purpose.
 
-A call-to-action button that directs users to the list of available psychologists.
+Call-to-action buttons for navigating to key sections.
 
-### 📋 Psychologists Page
+### 📖 Dictionary Page
 
-Displays a list of psychologists with key details such as name, experience, specialization, price per hour, and rating.
+Search functionality to find words quickly.
 
-Sorting options to arrange psychologists by name, price, or popularity.
+Filtering options based on categories.
 
-A "Load more" button to fetch additional psychologists from the database.
+Pagination for easy navigation through the word list.
 
-Ability to view more details about each psychologist by clicking "Read more."
+### 🌟 Recommend Page
 
-### ❤️ Favorites Page (Private)
+Personalized word suggestions.
 
-Accessible only to authenticated users.
+Interactive UI for discovering new vocabulary.
 
-Displays psychologists marked as favorites.
+### 🎯 Training Page
 
-Users can remove psychologists from favorites.
+Interactive exercises to test vocabulary knowledge.
+
+Progress tracking with visual indicators.
 
 ### 🔐 Authentication
 
-User registration and login using Firebase Authentication.
+User registration and login.
 
-Secure data retrieval for authenticated users.
+Secure access to personalized data.
 
 Logout functionality.
 
-## 📦 Firebase Integration
+## 📦 Backend Integration
 
-Psychologists' data stored in Firebase Realtime Database.
+API interaction with [Back End](https://vocab-builder-backend.p.goit.global/api-docs/)
 
-Users' favorite psychologists stored in Firebase or localStorage.
+Secure user data management.
 
-Authentication management via Firebase Authentication.
+## 🌐 Routing & State Management
 
-## 📅 Appointment Booking
+React Router for smooth navigation.
 
-A modal form to book an appointment with a psychologist.
+Redux Toolkit for global state management.
 
-Form validation using react-hook-form & yup.
-
-Modal closes on clicking outside, pressing Esc, or clicking the close button.
+Protected routes for authenticated users.
 
 ## 🌐 Routing
 
@@ -60,21 +60,27 @@ Implemented using React Router.
 
 Protected routes for private pages (e.g., Favorites).
 
+## 🎨 UI & Accessibility
+
+Fully responsive design for mobile (320px+), tablet (768px+), and desktop (1440px+).
+
+MUI components for a polished user experience.
+
+Accessibility best practices implemented.
+
 ## 🛠 Technologies Used
 
-React – for building the user interface.
+React – UI development.
 
-React Router – for managing navigation.
+Redux Toolkit – state management.
 
-Redux Toolkit – for state management.
+React Router – navigation.
 
-Firebase – for authentication and database storage.
+react-hook-form & yup – form handling and validation.
 
-react-hook-form & yup – for form handling and validation.
+Material UI / Tailwind CSS – styling.
 
-Styled Components / Tailwind CSS / Material UI – for styling.
-
-ESLint & Prettier – for code formatting and quality assurance.
+Prettier & ESLint – code formatting and quality assurance.
 
 ## 🏗 Installation Instructions
 
