@@ -95,18 +95,15 @@ npm run dev
 The application will be accessible at:👉 http://localhost:5173
 
 ## 📖 How to Use
+1️⃣ Visit the Home Page to get started.
 
-Visit the Home Page to learn about the service.
+2️⃣ Explore the Dictionary Page to browse and filter words.
 
-Go to the Psychologists Page to browse available professionals and sort them based on your preference.
+3️⃣ Check the Recommend Page for personalized vocabulary suggestions.
 
-Click Read More for detailed information about a psychologist.
+4️⃣ Train your skills on the Training Page using interactive exercises.
 
-If authenticated, click the heart icon to add psychologists to Favorites.
-
-Click Make an Appointment to schedule a session.
-
-Navigate to the Favorites Page to review saved psychologists.
+5️⃣ Register or log in to save progress and access personalized features.
 
 ## 🚀 Deployment
 
