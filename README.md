@@ -88,7 +88,7 @@ Prettier & ESLint – code formatting and quality assurance.
 
 ```sh
 git clone git@github.com:Yarik2019/VocabBuilder.git
-cd VocabBuilde
+cd VocabBuilder
 ```
 
 ### 2️⃣ Install Dependencies and Run
