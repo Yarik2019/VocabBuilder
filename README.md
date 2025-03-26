@@ -110,12 +110,12 @@ Navigate to the Favorites Page to review saved psychologists.
 
 ## 🚀 Deployment
 
-The project is deployed on Vercel:🔗 [Live Demo](https://psychologists-services-sepia.vercel.app/)
+The project is deployed on Vercel:🔗 [Live Demo](https://vocab-builder-five.vercel.app/)
 
 ## 🎨 Design & Documentation
- 🔗 Figma Design: [VocabBuilder UI]([https://www.figma.com/file/I5vjNb0NsJOpQRnRpMloSY/Psychologists.Services?type=design&node-id=0-1&mode=design&t=4zfT2zFANRbp1fCK-0](https://www.figma.com/file/XRhVBdCX1wPyzCRA567kud/VocabBuilder?type=design&node-id=0-1&mode=design&t=Aa7GiCvVIpx6Nvi5-0))
+ 🔗 Figma Design: [VocabBuilder UI](https://www.figma.com/design/XRhVBdCX1wPyzCRA567kud/VocabBuilder?node-id=70-19282&t=UJfQGwbNDKvxjldP-0)
  
- 📄 Technical Specification (TЗ): [Google Docs]([https://docs.google.com/document/d/1PrTxBn6HQbb0Oz17g5_zvyLGIOZg0TIP3HPaEEp6ZLs/edit?tab=t.0](https://docs.google.com/spreadsheets/d/15zCxbWA7ubDmFzjmzzXe6ysiHVMd4iD2PcZ7ilN2gRc/edit?gid=1060862504#gid=1060862504))
+ 📄 Technical Specification (TЗ): [Google Docs](https://docs.google.com/spreadsheets/d/15zCxbWA7ubDmFzjmzzXe6ysiHVMd4iD2PcZ7ilN2gRc/edit?gid=1060862504#gid=1060862504)
 
 ## 👤 Author
 **Name:** Yaroslav Terno  
