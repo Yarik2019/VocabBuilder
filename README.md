@@ -1,4 +1,4 @@
-# 🧠 Psychological Services App
+# 🧠 VocabBuilder App
 
 ## 📌 Project Overview
 
